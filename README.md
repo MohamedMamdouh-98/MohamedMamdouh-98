@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedmamdouh-98&show_icons=true&locale=en" alt="mohamedmamdouh-98"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmamdouh-98&show_icons=true&locale=en&layout=compact"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mohamedmamdouh-98&show_icons=true&locale=en" alt="mohamedmamdouh-98"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedmamdouh-98&show_icons=true&locale=en&layout=compact"/>
 </div></br>
 
 <div align="center" valign="top"><br>
