@@ -20,7 +20,7 @@
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.vectorstock.com/i/1000x1000/61/41/software-language-programmer-avatar-vector-17866141.webp">
-</div><br>
+</div>
 
  ##
 
