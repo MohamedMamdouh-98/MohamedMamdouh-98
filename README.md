@@ -1,5 +1,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Mohamed Mamdouh</h1>
-<h3 align="center">A frontend developer from Egypt</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Wallpoet&duration=3000&pause=500&color=64DD17&width=400&lines=1%2B+years+of+working+experience;Frontend-Developer%2C+React+js;Being+passionate+and+creative;Amazing+Frontend+and+Skill" alt="Typing SVG" />
+  </a>
+</p>
 
 
 <div align="center">
